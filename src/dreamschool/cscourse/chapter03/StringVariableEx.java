@@ -1,4 +1,4 @@
-package icehs.sciece.chapter03;
+package dreamschool.cscourse.chapter03;
 
 public class StringVariableEx {
 

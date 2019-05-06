@@ -1,4 +1,4 @@
-package icehs.science.chapter02;
+package dreamschool.cscourse.chapter02;
  
 /*
  * my first java classssssssssssssssssssssssssssssssssssssssssssssss
